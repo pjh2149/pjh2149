@@ -4,6 +4,8 @@
 **pjh2149/pjh2149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+language
+<img src="https://img.shields.io/#F7DF1E/javaScript-3766AB?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
